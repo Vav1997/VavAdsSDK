@@ -1,0 +1,10 @@
+{
+  "name": "com.vav.ads",
+  "version": "1.0.0",
+  "displayName": "Vav Ads SDK",
+  "description": "Unity Ads SDK",
+  "unity": "6000.0",
+  "author": {
+    "name": "Vav"
+  }
+}
